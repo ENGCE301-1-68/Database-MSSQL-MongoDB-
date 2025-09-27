@@ -11,8 +11,7 @@
 # 1. Clone และ install dependencies
 npm install
 
-# 2. สร้าง environment file
-cp .env.example .env
+# 2. เเก้ไขไฟล์ .env
 
 # 3. Start development server
 npm run dev
